@@ -47,5 +47,6 @@
       "type": "composer",
       "url": "https://asset-packagist.org"
     }
-  ]
+  ],
+  "abandoned": "flipboxfactory/craft-postmark"
 }
